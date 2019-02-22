@@ -13,11 +13,5 @@
     "psr-4": {
       "Miraizou\\Core\\": "src/"
     }
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/doqnach/miraizou-core"
-    }
-  ]
+  }
 }
