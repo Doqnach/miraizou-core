@@ -1,0 +1,23 @@
+{
+  "name": "doqnach/miraizou-core",
+  "description": "Miraizou Core Classes",
+  "keywords": [
+    "miraizou",
+    "core"
+  ],
+  "homepage": "https://miraizou.net",
+  "require": {
+    "php": "^7"
+  },
+  "autoload": {
+    "psr-4": {
+      "Miraizou\\Core\\": "src/"
+    }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/doqnach/miraizou-core"
+    }
+  ]
+}
